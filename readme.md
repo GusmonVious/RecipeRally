@@ -75,7 +75,3 @@ Follow our Contribution Guideliness:
    - Description of changes
    - Screenshots (if UI-related)
    - Affected components list
-
-
-## 📄 License
-MIT License - see [LICENSE](LICENSE) for details
