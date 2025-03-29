@@ -27,7 +27,7 @@
 }
 
 .quickpancakes{
-    background-image: url("../assets/quickpancakes.jpg");
+    background-image: url("../../assets/quickpancakes.jpg");
     background-size: cover;
     background-position: center;
     height: 150px;
@@ -37,7 +37,7 @@
     align-items: center;
 }
 .scrambledeggs{
-    background-image: url("../assets/scrambledeggs.webp");
+    background-image: url("../../assets/scrambledeggs.webp");
     background-size: cover;
     background-position: center;
     height: 150px;
@@ -47,7 +47,7 @@
     align-items: center;
 }
 .avocadotoast{
-    background-image: url("../assets/avocadotoast.avif");
+    background-image: url("../../assets/avocadotoast.avif");
     background-size: cover;
     background-position: center;
     height: 150px;
