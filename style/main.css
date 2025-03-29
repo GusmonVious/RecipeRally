@@ -1,61 +1,9 @@
+@import url('sections/xrecipe_cards.css');
+
+
 body{
     background-color: beige;
     display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.card-container{
-    display: flex;
-    justify-content: space-between;
-    width: 80%;
-}
-.recipe-card{
-    background-color: white;
-    border: 0px white solid;
-    border-radius: 5px;
-    box-shadow: 2px 4px 6px rgba(0, 0, 0, 0.8);
-    width: 250px;
-    margin: 50px;
-    
-}
-.recipe-header{
-    font-weight: bold;
-    text-align: center;
-    
-}
-.cook-time{
-    text-decoration: underline;
-}
-.ingredients{
-    padding-left: 10px;
-}
-.quickpancakes{
-    background-image: url("../quick pancakes.jpg");
-    background-size: cover;
-    background-position: center;
-    height: 150px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-.scrambledeggs{
-    background-image: url("../scrambledeggs.webp");
-    background-size: cover;
-    background-position: center;
-    height: 150px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-.avocadotoast{
-    background-image: url("../avocado\ toast.avif");
-    background-size: cover;
-    background-position: center;
-    height: 150px;
-    display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
